@@ -526,7 +526,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2></h2>
+                            <h2>Gorilla-Inspired Game for Fourth Graders</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
                             <p>For a target audience of fourth graders, we were challenged to make a nature-inspired game tying in the needs of kids and parents. After deciding on gorilla-inspiration, we decided to create a remote controlled walking gorilla. The gorilla was tied into an educational game where leopards attacked the gorilla's baby as it travelled across a jungle environment. The project was further limited by a strict $50 budget limit except for some provided parts. After designing the gorilla and creating a full jungle backdrop, we ended up with a realistically moving gorilla and an engaging game for the fourth graders who tested our final game.</p>
@@ -659,7 +659,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>Webcam Hand-Gesture Computer Control</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
                             <p>My team and I created a hand gesture-controlled computer interface for our Software Design class. Using the OpenCV module in Python, we integrated mouse pointer movement, basic clicking and dragging, and computer volume control in one program. I worked on the actual hand gesture recognition, isolating the hand through skin color detection, finding convex hull defects to separate the fingers, and tracking the position and number of defects to measure hand gestures.</p>
