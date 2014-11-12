@@ -125,7 +125,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Formula SAE Electric
                             </div>
                         </div>
-                        <img src="img/portfolio/fsae.gif" class="img-responsive" alt="">
+                        <img src="img/portfolio/formulafront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -135,7 +135,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Dualsport Electric Reverse Trike
                             </div>
                         </div>
-                        <img src="img/portfolio/cake.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/trikefront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -145,7 +145,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> SAE MiniBaja
                             </div>
                         </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/bajafront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -155,7 +155,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Laminar Flow Fountain
                             </div>
                         </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/gorillafront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -165,7 +165,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Biomedical CAD & 3D Printing
                             </div>
                         </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/biomedicalfront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -175,7 +175,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Electric Go-Kart Conversion
                             </div>
                         </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/gokartfront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -185,7 +185,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Welding & Heat Treatment Analysis
                             </div>
                         </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/weldfront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -195,7 +195,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Design for Volunteer Doctors
                             </div>
                         </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/uocdfront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -205,7 +205,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Nature-Inspired Gorilla Game
                             </div>
                         </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/gorillafront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -215,7 +215,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Autonomous Tugboat Navigation
                             </div>
                         </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/robofront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -225,7 +225,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Dynamical System Modeling
                             </div>
                         </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/dynamicsfront.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -235,7 +235,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Hand-Tracking Computer Control
                             </div>
                         </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/softdesfront.png" class="img-responsive" alt="">
                     </a>
                 </div>
             </div>
@@ -427,7 +427,8 @@
                             <h2>Technical Lead, Formula SAE Electric Mechanical Subteam</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
-                            <p>By far my largest project so far is the development of a Formula SAE Electric racecar. This year is our school's first ever look into Formula, so we are starting the car's design from nothing, an ambitious project for an extracurricular team of undergraduates. My work as technical lead for our mechanical subteam covers a variety of responsibilities, firstly making final decisions on all mechanical projects on the car. I have needed to look at a variety of projects across the car, such as a carbon fibre monocoque or multi-link suspension, and determine which are suitable for our team's scope. More complicated projects offer benefits for team member education and car performance, but similarly require machining time, tooling and facilities, tolerance limits, cost, design time, and more. In addition to deciding projects and reevaluating them as we learn more, I along with the subteam's administrative lead work closely with the various members of the team, teaching them about their subsystems, promoting individual design work, and reviewing their designs with them. I have also needed to manage our part database and structure, introduce and review Solidworks part and drawings to new team members, and manage top level assemblies and subsystem integration, both within mechanical subsystems and with our electrical subteams.</p>
+                            <p>By far my largest project so far is the development of a Formula SAE Electric racecar. This year is our school's first ever look into Formula, so we are starting the car's design from nothing, an ambitious project for an extracurricular team of undergraduates. My work as technical lead for our mechanical subteam covers a variety of responsibilities, firstly making final decisions on all mechanical projects on the car. I have needed to look at a variety of projects across the car, such as a carbon fibre monocoque or multi-link suspension, and determine which are suitable for our team's scope. More complicated projects offer benefits for team member education and car performance, but similarly require machining time, tooling and facilities, tolerance limits, cost, design time, and more.</p>
+                            <p>In addition to deciding projects and reevaluating them as we learn more, I along with the subteam's administrative lead work closely with the various members of the team, teaching them about their subsystems, promoting individual design work, and reviewing their designs with them. I have also needed to manage our part database and structure, introduce and review Solidworks part and drawings to new team members, and manage top level assemblies and subsystem integration, both within mechanical subsystems and with our electrical subteams.</p>
                             <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
                             <p>As the technical lead I have worked with team members on the majority of the components on the car, but my personal project has been the gearbox, with assistance from my subteam co-lead. Unlike most cars, our Formula car runs two motors instead of a physical differential, prompting the design of a single reduction gearbox mounting both motors and delivering independent drive outputs. To reduce weight the gearbox consists mainly of two machined aluminum housings, mounting a motor and set of gears on each side. It also contains two attached bearing cartridges to resist moments on the cantilevered drive shafts, as well as specific outer dimensions to limit billet cost. The full analysis of the gearbox requires its own design report, but the ongoing project has taught me a lot about a variety of topics, especially oil-sealed components and assembly procedures for large structures. Beyond the gearbox, I will continue to work on all of the Formula car subsystems, providing feedback, designing components that need to be designed, and finishing the details like hardware selection needed for a successful engineering project.
                             <ul class="list-inline item-details">
