@@ -205,7 +205,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i> <br> Nature-Inspired Gorilla Game
                             </div>
                         </div>
-                        <img src="img/portfolio/gorillafront.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/lasttwo/gorillaframe.jpg" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -358,9 +358,8 @@
                         <div class="modal-body">
                             <h2>Laminar Flow Fountain Mechanical Design</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/second/laminarfront.JPG" class="img-responsive img-centered" alt="">
                             <p>My team designed a laminar flow fountain with audio-visual response for an engineering class, aiming to create a project integrating significant mechanical, electrical, and programming components. I primarily worked on the mechanical design and manufacturing of the waterproofed, recycling system. To keep the project reasonable within our budget of $250, we fit the entire system in a small tabletop display. The core of the project was the construction of three laminar flow nozzles, filtering turbulent flow from a pump to create smooth, aesthetic laminar flows. After some calculations to characterize small scale laminar flow, we managed to design and build effective laminar flow nozzles using low-cost components. I additionally worked on our enclosure, hiding and waterproofing the music-response circuitry and water pumps below the fountain, leaving the top open with clear panels and adjustable-angle nozzles.</p>
-                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
                             <ul class="list-inline item-details">
                                 <li>Team:
                                     <strong>4
@@ -392,7 +391,7 @@
                         <div class="modal-body">
                             <h2>Biomedical CAD & 3D Printing</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/second/biomedicalmain.jpg" class="img-responsive img-centered" alt="">
                             <p>During the Fall semester of junior year, I did research on converting biomedical models into 3d printed models. Biomedical students and doctors may not have access to real life anatomical models, such as fetal skeletons. 3d printing's capabilities to print fairly accurate one-off objects perfectly suits that problem, giving medical personnel access to physical models. I worked on converting medical scan data into printable models, combining 2d scans, processing them, and optimizing them for prints. Further challenges involved printing complex fragile structures with minimal supports, keeping the core model visible without too much fragility. My research also explored other 3d printing uses, such as conductive filament use.</p>
                             <ul class="list-inline item-details">
                                 <li>Team:
@@ -462,7 +461,7 @@
                         <div class="modal-body">
                             <h2>Chassis Subteam, Electric Go-Kart Conversion</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/second/gokartmain.PNG" class="img-responsive img-centered" alt="">
                             <p>My experience with electric vehicles originated with this go-kart conversion. We planned to convert an abandoned go-kart frame into a racing electric kart for competition, but a search for more challenging work stopped us from moving forward with competition. Instead, we disassembled the go-kart, cleaned the frame, and began work on a full conversion to a Zero motorcycle powertrain. To adapt the chassis to our desired specifications, we needed to modify frame, removing unnecessary members and adding new supports and mounting members. I personally designed the motor controller mount and harness bar currently on the go-kart, providing a stable seat backing and integrated five-point harness mount points. I also designed a full bolt-on roll cage for the go-kart, aiming to meet Purdue EV Grand Prix safety specifications. Due to our move away from competition, though, we never manufactured the full frame. </p>
                             <ul class="list-inline item-details">
                                 <li>Subteam:
@@ -495,7 +494,7 @@
                         <div class="modal-body">
                             <h2>Steel Welding & Heat Treatment Analysis</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/lasttwo/weldmain.jpg" class="img-responsive img-centered" alt="">
                             <p>Inspired by work on steel space frames used in various vehicle teams at Olin, my team investigated welding and heat treatment strength of steel for our Materials Science class project. Testing MIG welds on 4130 steel taught us about steel both through successful experiments and failed tests. We ultimately tested quenched and tempered steel's toughness compared to air-cooled welds, finding the expected benefits. More importantly, though, we ran several experiments where we welded, heat treated, and machined our steel in the incorrect order, resulting in unnecessary heat treatment or unmachinable metal. Through a variety of tests, I learned far more about steel and its manufacturing processes.</p>
                             <ul class="list-inline item-details">
                                 <li>Team:
@@ -528,7 +527,7 @@
                         <div class="modal-body">
                             <h2>Gorilla-Inspired Game for Fourth Graders</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/lasttwo/gorillamain.JPG" class="img-responsive img-centered" alt="">
                             <p>For a target audience of fourth graders, we were challenged to make a nature-inspired game tying in the needs of kids and parents. After deciding on gorilla-inspiration, we decided to create a remote controlled walking gorilla. The gorilla was tied into an educational game where leopards attacked the gorilla's baby as it travelled across a jungle environment. The project was further limited by a strict $50 budget limit except for some provided parts. After designing the gorilla and creating a full jungle backdrop, we ended up with a realistically moving gorilla and an engaging game for the fourth graders who tested our final game.</p>
                             <ul class="list-inline item-details">
                                 <li>Team:
@@ -561,7 +560,7 @@
                         <div class="modal-body">
                             <h2>User-Oriented Collaborative Design with Volunteer Doctors</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/lasttwo/uocdmain.jpg" class="img-responsive img-centered" alt="">
                             <p>In User-Oriented Collaborative Design my team studied volunteer doctors, aiming to identify and model a useful product or service for the user group. For the first phase of the project we researched how volunteer doctors worked and felt, interviewing numerous volunteers and visiting clinics. After identifying core needs and values of the group, we began to look at areas of improvement for the group. Hours of ideation produced countless product and service ideas, almost all dismissed after some reflection. We then closely worked with doctors again, discussing improvements and useful aspects of ideas. Finally we selected an idea for physical modeling and interface design, thinking about how and where the idea would fit with volunteer doctors. Though we initially thought volunteer doctors would favor better medical technology and supplies, our investigation showed what they really needed was validation for their work, prompting the creation of a subtle new interface for thank-you notes.</p>
                             <ul class="list-inline item-details">
                                 <li>Team:
@@ -594,7 +593,7 @@
                         <div class="modal-body">
                             <h2>Autonomous Robot Tugboat Navigation</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/lasttwo/robomain.png" class="img-responsive img-centered" alt="">
                             <p>Challenged to write code for autonomous tugboat, my Robotics team dealt with a variety of issues from a curious mix of sensors. The tugboat needed to navigate around a course using a boat-mounted IR sensor and an external, over-hanging camera. Though working closely with the Forebrain team governing overall navigation with the overhead camera, I primarily wrote the Hindbrain code present on the boat. The processing speed of the boat acted as a bottleneck to communication with the camera base station, so I spent time optimizing the code for quicker response. In addition, I created and implemented algorithms for wall avoidance, wall following, and balancing local IR obstacle data with commands from the base station.</p>
                             <ul class="list-inline item-details">
                                 <li>Team:
@@ -627,9 +626,10 @@
                         <div class="modal-body">
                             <h2>Dynamic Equation Generator</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/lasttwo/dynamics3d.jpg" class="img-responsive img-centered" alt="">
                             <p>For my Dynamics final project, my partner and I wanted to explore the use of MATLAB and the symbolic toolbox to better understand its capabilities. We used MATLAB to automatically derive the equations of motion for two known systems, a planar rigid body and spherical point mass pendulum, solving force balance equations and taking unit vector derivatives in MATLAB. I primarily wrote the code, reverse engineering a similar script deriving a double pendulum's motion. Afterwards, we determined the changes needed to adapt the system to an n-member pendulum for the two cases above, then adapted our equation generator and simulation.</p>
                             <p> A personal interest of mine, I have studied chaos and nonlinear dynamics both in class and personally. I have written several other MATLAB simulations exploring both existing chaotic systems as well aas created ones. </p>
+                            <img src="img/portfolio/lasttwo/randomjulia.png" class="img-responsive img-centered" alt="">
                             <ul class="list-inline item-details">
                                 <li>Team:
                                     <strong>2
@@ -661,7 +661,7 @@
                         <div class="modal-body">
                             <h2>Webcam Hand-Gesture Computer Control</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/softdesfront.png" class="img-responsive img-centered" alt="">
                             <p>My team and I created a hand gesture-controlled computer interface for our Software Design class. Using the OpenCV module in Python, we integrated mouse pointer movement, basic clicking and dragging, and computer volume control in one program. I worked on the actual hand gesture recognition, isolating the hand through skin color detection, finding convex hull defects to separate the fingers, and tracking the position and number of defects to measure hand gestures.</p>
                             <ul class="list-inline item-details">
                                 <li>Team:
